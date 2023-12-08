@@ -83,3 +83,12 @@ print(f'step 12 -> {my_array.count(11)}')
 
 # 14. convert array to list
 
+#print(f'step 14 -> {my_array.tolist}')
+
+
+# 15. append a string to chat array using fromstring() method
+
+
+# 16. slice elements from an array
+
+print(f'step 16 -> {my_array[3:7]}')
