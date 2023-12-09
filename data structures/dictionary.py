@@ -11,3 +11,5 @@ print(any(dic)) # there exists
 print(len(dic)) # length
 print(sorted(a,reverse = True)) # sorting in reverse
 print(sorted(b,key = len)) # sorting in length
+print(max(a.values()))
+print(list(dic)[:2])
